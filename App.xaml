@@ -1,0 +1,17 @@
+﻿<Application x:Class="TurAgency.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:TurAgency"
+<<<<<<< HEAD
+             StartupUri="pages/MainWindow.xaml">
+    <Application.Resources>
+        <Style TargetType="Button">
+            <Setter Property=Foreground Value="White" ></Setter>
+        </Style>
+=======
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+>>>>>>> abb9c5da87d057502ed998ff609c1205f9c16903
+    </Application.Resources>
+</Application>
